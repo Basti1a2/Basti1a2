@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bastian</h1>
 <h3 align="center">A passionate Developer and Designer from Austria</h3>
 
-- 🔭 I’m currently working on [Nordketten Studios](nordketten-studios.vercel.app)
+- 🔭 I’m currently working on [Nordketten Studios](https://nordketten-studios.vercel.app/)
 
 - 🌱 I’m currently learning **Java, Java script, Python**
 
