@@ -9,7 +9,8 @@
 
 - 📫 How to reach me **bastian.steger28@gmail.com**
 
-- 💻 Software I use **VS Code, Intellije IDEA, DaVinci Resolve, Final Cut Pro, Affinity Photo 2**
+- 💻 Software I use **VS Code, Intellije IDEA/PyCharm, DaVinci Resolve, Final Cut Pro, Affinity Photo 2**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
